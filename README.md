@@ -8,3 +8,4 @@
 | 3 | Calculator + |[Go To Repo](https://github.com/ahmedmohamedag/calculator_0)|[Live Preview ]( https://ahmedmohamedag.github.io/calculator_0/ )|
 | 4 | copy-text |[Go To Repo]( https://github.com/ahmedmohamedag/copy-text )|[Live Preview ]( https://ahmedmohamedag.github.io/copy-text/ )|
 | 5 | verify_account |[Go To Repo]( https://github.com/ahmedmohamedag/verify_account )|[Live Preview ](https://ahmedmohamedag.github.io/verify_account/  )|
+| 6 | QR Code Generator |[Go To Repo]( https://github.com/ahmedmohamedag/QR-Generator)|[Live Preview ]( https://ahmedmohamedag.github.io/QR-Generator/ )|
